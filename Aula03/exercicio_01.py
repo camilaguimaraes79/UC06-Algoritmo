@@ -8,3 +8,4 @@ print(4 + 10 + 7 + 6) #27
 print(27/4) #6.75
 
  #A média do aluno com as 4 notas 6.75
+
