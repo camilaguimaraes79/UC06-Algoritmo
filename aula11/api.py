@@ -70,7 +70,4 @@ for nome_personagem in personagem:
     #Retornar todos os personagens
     #Lista das informações que deverão ser retornadas:
     
-    """
     
-           
-    """
