@@ -38,7 +38,7 @@ nova_linha = len(leitura_excel)
 
 #APAGAR LINHAS DE UMA PLANILHA 
 
-#leitura_excel = leitura_excel.drop(3)
+#leitura_excel = leitura_excel.drop(5)
 
 
 leitura_excel.loc[4, "nome"] = dados["nome"]
